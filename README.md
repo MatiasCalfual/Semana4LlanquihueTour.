@@ -42,7 +42,20 @@ resources/
 ```
 ## Instrucciones para ejecutar el proyecto
 
-1. **Descarga el código**
-   - 
-   
+1. **Copia el código:**
+```bash
+git clone https://github.com/MatiasCalfual/Semana4LlanquihueTour..git
+```
+2. **Abre el proyecto en IntelliJ IDEA:**
+   * Ve a **File -> Open** (Archivo -> Abrir) y elige la carpeta en la que quieras abrir el código
 
+3. **Revisa que el archivo de texto esté en su lugar:**
+   * Asegúrate de ver una carpeta llamada 'resources' en la raiz del proyecto
+
+4. **Dale "Play" al programa:**
+   * En la barra izquierda de IntelliJ, despliega las carpetas siguiendo la ruta: 'src' -> 'ui'.
+   * Busca el archivo llamado **'Main'** (Main.java) y dale doble clic para abrirlo
+   * Haz clic derecho en cualquier parte vacia del código de esa pantalla y selecciona **Run 'Main.main()'**
+
+5. **Mira los resultados:**
+   * ¡Listo! En la parte inferior de tu pantalla se abrirá la consola de IntelliJ y veras que el programa lee el archivo, te muestra todos los tours ordenados y luego te enseña los resultados por categoría y por precio.
