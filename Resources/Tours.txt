@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;1200
+Saltos del Petrohue;Puerto Varas;3500
+Frutillar Bajo;Frutillar;2500
+Angelmo;Puerto Montt;1000
+Cascadas;Puerto Octay;1800
